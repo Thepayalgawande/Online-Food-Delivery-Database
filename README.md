@@ -50,10 +50,3 @@ The project is implemented in **MySQL Workbench** and demonstrates **database de
 - **Reviews** → Customer feedback and ratings
 
 ---
-
-## 🔧 Installation & Setup
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/FoodDeliveryPro.git
-cd FoodDeliveryPro
